@@ -1,0 +1,5 @@
+*.swp
+y.tab.*
+*.o
+lex.yy.c
+calc1
